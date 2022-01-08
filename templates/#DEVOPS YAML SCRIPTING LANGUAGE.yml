@@ -1,0 +1,51 @@
+#DEVOPS YAML SCRIPTING LANGUAGE
+#Yaml is adata serialization   designed to directly written and readabke by humans
+#it is commonly used for configuratioinfiles for applicatioins
+# it is used where data is stored and transferred through the network
+#yaml is a super set of json with additional features likenew line and  indentation 
+#we can communicate with other languages with yaml scripting
+#different types of scripting languages are shell python yaml bash
+#there are three editions  in yaml scripting they are 1.2,1.,1.0
+#yaml files can be saved with extension as yaml or yml 
+#for indentation we use tabs in python but in yaml we use  spaces in yaml 
+#shell is used to start and configure the servers
+#scripting basics 
+#what is a key
+#basicall ansible designed for only automation of repetitive tasks which needs to be done day to day tasks
+#ansible designed for the devoloppers this is used for provisioning and deploying and maintaining servers
+# provisioning means creation of servers databases load balancers 
+#we can create them manually but we use ansible for the automation of the servers 
+# i need to have user nani in all hosts we can configure it using ansible 
+# if we are runnig tom cat on 4 servers so we need java for tomcat to run java so we use ansible for 
+#the installation fo tom cat in different servers
+#orchestration of a servers 
+# incase web servers and we are runnign some web logic or webssserver we need some data base to run 
+#for the application
+# if we want to install a new application with out the downtime we can use ansible
+# ansible run the tasks in a systematic manner 
+# #dependencies jobs can also done by the ansible
+# it is used for the application deployment  configuration orchestration 
+# it is not the best way for the provisioning we can use terraform 
+# comparing with other tools it will save lot of time
+# compare to other configuration tools we dont need agent should be installed in client machine
+# ansible is a open source 
+# we can use ansible for the infrastucture provisioning purpose
+# default protocol in the linux systems ansibel uses ssh for the operations
+# systems requirement are very low
+# we need pyhton onlyfor the ansible
+# it is devolopped with python
+# we can write ruby as well
+# fast deployment than other 
+
+
+# ansible architecture 
+# installation and configuratioin of ansible
+# ansible layout
+# inventory and runnig adhoc commands
+# configuration files and priority of the configuration files
+# create and update the inventories of managed hosts and manage connections with them
+# automate the administering tasks with ansible
+# adhoc commands 
+# playbook
+# write effective playbooks with jinja templates
+
