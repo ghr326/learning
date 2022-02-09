@@ -1,4 +1,6 @@
 #DEVOPS YAML SCRIPTING LANGUAGE
+#aint up markup language
+#
 #Yaml is adata serialization   designed to directly written and readabke by humans
 #it is commonly used for configuratioinfiles for applicatioins
 # it is used where data is stored and transferred through the network
@@ -48,4 +50,28 @@
 # adhoc commands 
 # playbook
 # write effective playbooks with jinja templates
+#protect sensible data using anisible vault
+#re-use of code and simlify the app devolopment and ansible roles
+#we have two types of inventories static inventory and dynamic inventory
+# cloud ip addresses re will change so we will assign a dynamic inventory
+# key is like a variable
+#we store some values in variable 
+#we represent data like a dictionary
+#the sam value which we assign as a variable we gonna give that as a key and value pair
+#we use x=25 i.e x as variable and 25 as a value
+#we can assign any value to the key
+
+#
+#
+#
+#
+#
+#
+#
+#
+# 
+#
+#
+#
+#
 
